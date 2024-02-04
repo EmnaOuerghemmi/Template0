@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+babibop.fr	TRUE	/	FALSE	1999999999	PHPSESSID	k7iptvg9rdurfdc03a5uep0shk
+
